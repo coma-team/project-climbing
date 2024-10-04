@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
+<meta charset="UTF-8"> 
 <title>Page Not Found</title>
 <link rel="stylesheet" href="../COMA_PROJECT_CONTROLLER/css/error.css">
 </head>
