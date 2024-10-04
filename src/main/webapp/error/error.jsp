@@ -2,7 +2,7 @@
     pageEncoding="UTF-8" isErrorPage="true"%>
 <!DOCTYPE html>
 <html>
-<head>
+<head> 
 <meta charset="UTF-8">
 <title>에러 페이지</title>
 </head>

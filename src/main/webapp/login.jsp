@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
+<meta charset="UTF-8"> 
 <title>코마 : 로그인 페이지</title>
 <!-- Fonts and icons -->
 <script src="assets/js/plugin/webfont/webfont.min.js"></script>

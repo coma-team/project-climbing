@@ -7,7 +7,7 @@
 <title>안내 페이지</title>
 </head>
 <body>
-
+ 
 <script>
 	console.log('${msg}'+'${path}');
 	alert('${msg}');

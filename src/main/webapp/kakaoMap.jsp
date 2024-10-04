@@ -5,7 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
-<!-- 인포윈도우 스타일 -->
+<!-- 인포윈도우 스타일 --> 
 <style>
 .custom-info-window {
     white-space: nowrap; /*줄바꿈 방지*/
